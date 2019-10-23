@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/playerstatsrem/static/css/main.b100e6da.chunk.css",
-    "main.js": "/playerstatsrem/static/js/main.cd0d5835.chunk.js",
-    "main.js.map": "/playerstatsrem/static/js/main.cd0d5835.chunk.js.map",
+    "main.css": "/playerstatsrem/static/css/main.411aecf4.chunk.css",
+    "main.js": "/playerstatsrem/static/js/main.5dd39f2a.chunk.js",
+    "main.js.map": "/playerstatsrem/static/js/main.5dd39f2a.chunk.js.map",
     "runtime-main.js": "/playerstatsrem/static/js/runtime-main.0f3219f8.js",
     "runtime-main.js.map": "/playerstatsrem/static/js/runtime-main.0f3219f8.js.map",
-    "static/js/2.35b4b7d0.chunk.js": "/playerstatsrem/static/js/2.35b4b7d0.chunk.js",
-    "static/js/2.35b4b7d0.chunk.js.map": "/playerstatsrem/static/js/2.35b4b7d0.chunk.js.map",
+    "static/js/2.476ca418.chunk.js": "/playerstatsrem/static/js/2.476ca418.chunk.js",
+    "static/js/2.476ca418.chunk.js.map": "/playerstatsrem/static/js/2.476ca418.chunk.js.map",
     "index.html": "/playerstatsrem/index.html",
-    "precache-manifest.e9e39ff1d6cf6e3e3f0b4e1bcf81dd66.js": "/playerstatsrem/precache-manifest.e9e39ff1d6cf6e3e3f0b4e1bcf81dd66.js",
+    "precache-manifest.71b502dc62243a26366d1a2fae037d88.js": "/playerstatsrem/precache-manifest.71b502dc62243a26366d1a2fae037d88.js",
     "service-worker.js": "/playerstatsrem/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/playerstatsrem/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/playerstatsrem/static/media/logo.25bf045c.svg"
+    "static/css/main.411aecf4.chunk.css.map": "/playerstatsrem/static/css/main.411aecf4.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.0f3219f8.js",
-    "static/js/2.35b4b7d0.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.cd0d5835.chunk.js"
+    "static/js/2.476ca418.chunk.js",
+    "static/css/main.411aecf4.chunk.css",
+    "static/js/main.5dd39f2a.chunk.js"
   ]
 }
